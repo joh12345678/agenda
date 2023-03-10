@@ -1,0 +1,24 @@
+img{
+    height: 160px;
+    width: 160px;
+}
+
+/*
+figure{
+    background: #f0d7d7;
+}
+*/
+
+#normal{
+    height: 200px;
+    width: 200px;
+    border: 2px solid #000000;
+}
+
+footer{
+    height: 100px;
+}
+
+.nav{
+    background: #53dab1;
+}
